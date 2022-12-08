@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/ex_47/ex_47.csproj",
+                "${workspaceFolder}/ex_50/ex_50.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/ex_47/ex_47.csproj",
+                "${workspaceFolder}/ex_50/ex_50.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/ex_47/ex_47.csproj"
+                "${workspaceFolder}/ex_47/ex_50.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

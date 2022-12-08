@@ -1,0 +1,15 @@
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/obj/Debug/net6.0/ex_50.csproj.AssemblyReference.cache
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/obj/Debug/net6.0/ex_50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/obj/Debug/net6.0/ex_50.AssemblyInfoInputs.cache
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/obj/Debug/net6.0/ex_50.AssemblyInfo.cs
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/obj/Debug/net6.0/ex_50.csproj.CoreCompileInputs.cache
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/bin/Debug/net6.0/ex_50
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/bin/Debug/net6.0/ex_50.deps.json
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/bin/Debug/net6.0/ex_50.runtimeconfig.json
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/bin/Debug/net6.0/ex_50.dll
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/bin/Debug/net6.0/ref/ex_50.dll
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/bin/Debug/net6.0/ex_50.pdb
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/obj/Debug/net6.0/ex_50.dll
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/obj/Debug/net6.0/ref/ex_50.dll
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/obj/Debug/net6.0/ex_50.pdb
+/Users/kseniya/Desktop/Learning/seminar_7/ex_50/obj/Debug/net6.0/ex_50.genruntimeconfig.cache
